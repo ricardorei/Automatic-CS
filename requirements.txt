@@ -1,0 +1,11 @@
+tqdm==4.28.1
+numpy==1.15.0
+pandas==0.23.3
+scikit-learn==0.19.2
+scipy==1.1.0
+torch==0.4.1
+pyparsing==2.2.0
+nltk==3.3
+ipykernel==5.1.0
+ipywidgets==7.4.2
+allennlp
